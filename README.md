@@ -1,4 +1,2 @@
 # aperture-camera-apk
-This Repository contains [aperture camera](https://github.com/LineageOS/android_packages_apps_Aperture) (By Lineage Os team) apk
-
-## **Download:** [Link](https://github.com/Luciogi/aperture-camera-apk/releases)
+## **Download:** [Link]([https://github.com/Luciogi/aperture-camera-apk/releases](https://github.com/SebaUbuntu/android_packages_apps_Aperture/releases)https://github.com/SebaUbuntu/android_packages_apps_Aperture/releases)
